@@ -1,4 +1,4 @@
-package com.parth.learning.dockerbasics.controller;
+package com.parth.docker.resilience.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
